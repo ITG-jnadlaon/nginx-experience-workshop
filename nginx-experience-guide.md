@@ -512,6 +512,7 @@ What do you notice in the output?
 Edit the `lb.conf` file
 
 `sudo vim /etc/nginx/conf.d/lb.conf`
+`sudo mkdir -p /data/nginx/cache`
 
 
 **Step 2**
